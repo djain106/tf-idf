@@ -8,4 +8,4 @@ Line 4...N: {DOCUMENT TEXT}
 ```
 
 To run the code, place all text files within the same directory as the tf-idf.py file and run with ```py tf-idf.py``` and answer relevant questions to your search. User can select
-number of files that should be retrieved from the search algorithm.
+number of files that should be retrieved from the search algorithm. Example text files are provided in the repository to be searched upon. One can read more about the algorithm and how it works with this [article](https://en.wikipedia.org/wiki/Tf–idf)
